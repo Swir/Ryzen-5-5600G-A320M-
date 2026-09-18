@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Ryzen 5 5600G + A320M EFI — SWIR project banner</title>
+  <desc id="desc">Dark electric-cyan hardware reference banner with a CPU and EFI symbol.</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#02050A"/><stop offset=".55" stop-color="#06101A"/><stop offset="1" stop-color="#02050A"/></linearGradient><linearGradient id="cyan" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#0088FF"/><stop offset=".5" stop-color="#62E5FF"/><stop offset="1" stop-color="#0088FF"/></linearGradient><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#62E5FF" stroke-opacity=".05"/></pattern></defs>
+  <rect width="1200" height="320" rx="26" fill="url(#bg)"/><rect x="1" y="1" width="1198" height="318" rx="25" fill="none" stroke="#62E5FF" stroke-opacity=".25"/><rect width="1200" height="320" rx="26" fill="url(#grid)"/>
+  <g transform="translate(72 74)"><rect width="150" height="150" rx="30" fill="#07111C" stroke="#62E5FF" stroke-opacity=".5"/><rect x="38" y="38" width="74" height="74" rx="10" fill="none" stroke="url(#cyan)" stroke-width="7"/><path d="M55 22V38M75 22V38M95 22V38M55 112V128M75 112V128M95 112V128M22 55H38M22 75H38M22 95H38M112 55H128M112 75H128M112 95H128" stroke="#62E5FF" stroke-width="5" stroke-linecap="round"/><text x="75" y="84" text-anchor="middle" fill="#F4FAFF" font-family="Segoe UI,Arial,sans-serif" font-size="22" font-weight="800">EFI</text></g>
+  <text x="270" y="70" font-family="Segoe UI,Arial,sans-serif" font-size="18" font-weight="700" letter-spacing="4" fill="#62E5FF">SWIR PROJECT</text>
+  <text x="270" y="142" font-family="Segoe UI,Arial,sans-serif" font-size="50" font-weight="800" fill="#F4FAFF">Ryzen 5 5600G + A320M EFI</text>
+  <text x="272" y="190" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="500" fill="#B8D2E0">Hardware-specific OpenCore configuration reference</text>
+  <text x="272" y="232" font-family="Segoe UI,Arial,sans-serif" font-size="16" font-weight="650" letter-spacing="1.5" fill="#62E5FF">AMD RYZEN  •  OPENCORE  •  EFI REFERENCE</text>
+</svg>
